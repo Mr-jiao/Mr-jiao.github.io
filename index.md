@@ -1,4 +1,4 @@
-<table border="0" height="100px">
+<table border="0" height="200px">
   <tr>
     <td width="75%">
       <p><b>教育程度：大学本科</b></p>
