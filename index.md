@@ -1,6 +1,6 @@
-<table border="0">
+<table border="0" height="300px">
   <tr>
-    <td width="75%" style="margin-top: 20px">
+    <td width="75%">
       <p><b>教育程度：大学本科</b></p>
       <p><b>邮箱：1912597074@qq.com</b></p>
       <p><b>地址：吉林省长春市榆树市</b></p>
