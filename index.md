@@ -1,4 +1,3 @@
-# 欢迎来到焦传阳的个人主页
 <table border="0">
   <tr>
     <td width="75%">
@@ -7,7 +6,7 @@
       <p><b>地址：吉林省长春市榆树市</b></p>
     </td>
     <td width="25%">
-      <img src="/me.jpg" width="100%">
+      <img style="margin-top: 50px;" src="/me.jpg" width="100%">
     </td>
   </tr>
 </table>
